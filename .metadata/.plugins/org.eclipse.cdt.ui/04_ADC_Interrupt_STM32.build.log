@@ -1,0 +1,10 @@
+23:25:15 **** Incremental Build of configuration Debug for project 04_ADC_Interrupt_STM32 ****
+make -j8 all 
+arm-none-eabi-size  04_ADC_Interrupt_STM32.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10348	     12	   1716	  12076	   2f2c	04_ADC_Interrupt_STM32.elf
+Finished building: default.size.stdout
+ 
+
+23:25:16 Build Finished. 0 errors, 0 warnings. (took 509ms)
+

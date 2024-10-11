@@ -1,0 +1,10 @@
+13:58:09 **** Incremental Build of configuration Debug for project ADC_stm32_Polling ****
+make -j8 all 
+arm-none-eabi-size  ADC_stm32_Polling.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14836	    104	   2056	  16996	   4264	ADC_stm32_Polling.elf
+Finished building: default.size.stdout
+ 
+
+13:58:10 Build Finished. 0 errors, 0 warnings. (took 407ms)
+

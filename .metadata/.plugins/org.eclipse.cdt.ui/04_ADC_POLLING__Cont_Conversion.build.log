@@ -1,0 +1,10 @@
+00:06:16 **** Incremental Build of configuration Debug for project 04_ADC_POLLING__Cont_Conversion ****
+make -j8 all 
+arm-none-eabi-size  04_ADC_POLLING__Cont_Conversion.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9696	     12	   1716	  11424	   2ca0	04_ADC_POLLING__Cont_Conversion.elf
+Finished building: default.size.stdout
+ 
+
+00:06:17 Build Finished. 0 errors, 0 warnings. (took 566ms)
+

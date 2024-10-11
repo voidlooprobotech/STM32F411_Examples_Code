@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;04_ADC_POLLING_Cont/03_ADC_POLLING_STM32.ioc&apos; to &apos;04_ADC_POLLING_Cont.ioc&apos;" description="Rename resource &apos;03_ADC_POLLING_STM32.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="03_ADC_POLLING_STM32.ioc" name="04_ADC_POLLING_Cont.ioc" stamp="1721241626036" updateReferences="true"/>
+</session>

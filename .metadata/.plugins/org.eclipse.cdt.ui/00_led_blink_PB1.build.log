@@ -1,0 +1,10 @@
+20:42:36 **** Incremental Build of configuration Debug for project 00_led_blink_PB1 ****
+make -j8 all 
+arm-none-eabi-size  00_led_blink_PB1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7760	     12	   1644	   9416	   24c8	00_led_blink_PB1.elf
+Finished building: default.size.stdout
+ 
+
+20:42:36 Build Finished. 0 errors, 0 warnings. (took 321ms)
+
