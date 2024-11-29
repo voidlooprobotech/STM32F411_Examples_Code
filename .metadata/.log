@@ -4976,3 +4976,21 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-11-09 21:01:21.876
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-11-28 20:25:53.397 -----------------------------------------------
+eclipse.buildId=Version 1.15.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-11-28 20:31:24.120
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-11-28 20:31:24.136
+!MESSAGE Log4j2 initialized with config file C:\Users\Sandip\Documents\GIT\STM32F411_Examples_Code\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-11-28 20:31:38.533
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-11-28 22:07:55.447
+!MESSAGE Indexed '17_GPIO_OUTPUT_READ' (22 sources, 82 headers) in 7.25 sec: 4,789 declarations; 22,866 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0072%)
