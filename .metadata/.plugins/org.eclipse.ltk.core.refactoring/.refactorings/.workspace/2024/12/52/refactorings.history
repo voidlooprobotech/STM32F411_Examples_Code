@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;20_I2C_Master_SD3231&apos;" deleteContents="true" description="Delete resource &apos;20_I2C_Master_SD3231&apos;" element1="/20_I2C_Master_SD3231" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1735137540644"/>
+</session>
