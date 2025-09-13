@@ -60,8 +60,8 @@ all: main-build
 main-build: 18_Scan_I2C_Slave_Address.elf secondary-outputs
 
 # Tool invocations
-18_Scan_I2C_Slave_Address.elf 18_Scan_I2C_Slave_Address.map: $(OBJS) $(USER_OBJS) C:\Users\Sandip\Documents\GIT\STM32F411_Examples_Code\18_Scan_I2C_Slave_Address\STM32F411RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "18_Scan_I2C_Slave_Address.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\Sandip\Documents\GIT\STM32F411_Examples_Code\18_Scan_I2C_Slave_Address\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="18_Scan_I2C_Slave_Address.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+18_Scan_I2C_Slave_Address.elf 18_Scan_I2C_Slave_Address.map: $(OBJS) $(USER_OBJS) F:\Desk_64GB\GIT\STM32F411_Examples_Code\18_Scan_I2C_Slave_Address\STM32F411RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "18_Scan_I2C_Slave_Address.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"F:\Desk_64GB\GIT\STM32F411_Examples_Code\18_Scan_I2C_Slave_Address\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="18_Scan_I2C_Slave_Address.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

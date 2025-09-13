@@ -9,6 +9,14 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Desk_64GB\YTP\GIT\STM32F411_Examples_Code\19_ADC_Interrupt_DMA"/>
+			<item value="E:\Desk_64GB\YTP\GIT\STM32F411_Examples_Code\20_I2C_Master_DS3231"/>
+			<item value="E:\Desk_64GB\YTP\GIT\STM32F411_Examples_Code\23_STM32_I2C_Master_Slave"/>
+			<item value="E:\Desk_64GB\YTP\GIT\STM32F411_Examples_Code\17_GPIO_OUTPUT_READ"/>
+			<item value="E:\Desk_64GB\YTP\GIT\STM32F411_Examples_Code\16_Timer_Delay_MS"/>
+			<item value="E:\Desk_64GB\YTP\GIT\STM32F411_Examples_Code\01_GPIO_INPUT"/>
+			<item value="E:\Desk_64GB\YTP\GIT\STM32F411_Examples_Code\00_STM32_GPIO_OUTPUT"/>
+			<item value="E:\Desk_64GB\YTP\GIT\STM32F411_Examples_Code\24_I2C_LCD_16x2"/>
 			<item value="C:\Users\Sandip\Documents\GIT\STM32F411_Examples_Code\01_GPIO_INPUT"/>
 			<item value="C:\Users\Sandip\Documents\GIT\STM32F411_Examples_Code\00_STM32_GPIO_OUTPUT"/>
 			<item value="C:\Users\Sandip\Documents\GIT\STM32F411_Examples_Code\00_STM32_GPIO_Output_CubeMX_Nucleo_Board"/>
